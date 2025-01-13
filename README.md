@@ -15,7 +15,7 @@ You can find more from me on [LinkTree](https://linktr.ee/iris.hunkeler).
 
 <table>
   <tr>
-    <th>&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
     <th>Event</th>
     <th>Title</th>
     <th>Location</th>
@@ -48,7 +48,7 @@ You can find more from me on [LinkTree](https://linktr.ee/iris.hunkeler).
 
 <table>
   <tr>
-    <th style="min-width:80px">Date</th>
+    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
     <th>Event</th>
     <th>Title</th>
     <th>Location</th>
@@ -95,7 +95,7 @@ You can find more from me on [LinkTree](https://linktr.ee/iris.hunkeler).
 
 <table>
   <tr>
-    <th style="min-width:80px">Date</th>
+    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
     <th>Event</th>
     <th>Title</th>
     <th>Location</th>
