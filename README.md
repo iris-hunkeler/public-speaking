@@ -15,7 +15,7 @@ You can find more from me on [LinkTree](https://linktr.ee/iris.hunkeler).
 
 <table>
   <tr>
-    <th style="width:150px">Date</th>
+    <th style="width:25%">Date</th>
     <th>Event</th>
     <th>Title</th>
     <th>Location</th>
