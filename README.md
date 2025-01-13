@@ -13,16 +13,16 @@ You can find more from me on [LinkTree](https://linktr.ee/iris.hunkeler).
 
 # 2024
 
-<table width="100%">
+<table>
   <tr>
-    <th style="width:25%">Date</th>
+    <th>&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;</th>
     <th>Event</th>
     <th>Title</th>
     <th>Location</th>
     <th>Language</th>
   </tr>
   <tr>
-    <td style="width:25%">2024-06-04</td>
+    <td>2024-06-04</td>
     <td>AWS Summit Stockholm - Community Lounge</td>
     <td><a href="2024/2024-06-04.md">Getting started with Serverless</a></td>
     <td>Stockholm, Sweden</td>
