@@ -1,6 +1,6 @@
 <h1 align='center'>Public Speaking - Iris Hunkeler</h1>
 
-I love working and talking about backend engineering (Java, Kotlin, Python), cloud (AWS, Azure), DevOps and agile development!
+I love working on and talking about backend engineering (Java, Kotlin, Python), cloud (AWS, Azure), DevOps and agile development!
 
 This page lists and links my public speaking engagements. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/iris-hunkeler/).
 
