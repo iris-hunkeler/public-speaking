@@ -13,7 +13,7 @@ You can find more from me on [LinkTree](https://linktr.ee/iris.hunkeler).
 
 # 2024
 
-<table>
+<table width="100%">
   <tr>
     <th style="width:25%">Date</th>
     <th>Event</th>
@@ -22,7 +22,7 @@ You can find more from me on [LinkTree](https://linktr.ee/iris.hunkeler).
     <th>Language</th>
   </tr>
   <tr>
-    <td>2024-06-04</td>
+    <td style="width:25%">2024-06-04</td>
     <td>AWS Summit Stockholm - Community Lounge</td>
     <td><a href="2024/2024-06-04.md">Getting started with Serverless</a></td>
     <td>Stockholm, Sweden</td>
