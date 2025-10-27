@@ -7,9 +7,29 @@ This page lists and links my public speaking engagements. Feel free to reach out
 You can find more from me on [LinkTree](https://linktr.ee/iris.hunkeler).
 
 # Table of Contents
+- [2025](#2025)
 - [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
+
+# 2025
+
+<table>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>Event</th>
+    <th>Title</th>
+    <th>Location</th>
+    <th>Language</th>
+  </tr>
+  <tr>
+    <td>2025-11-09</td>
+    <td>AWS Summit Zurich - Startup & Community Stage</td>
+    <td><a href="2025/2025-09-11.md">Vibe coding meets cloud infrastructure — approaches, risks, and experiences</a></td>
+    <td>Zurich, Switzerland</td>
+    <td>English</td>
+  </tr>
+</table>
 
 # 2024
 
