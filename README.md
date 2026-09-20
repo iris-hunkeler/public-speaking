@@ -7,10 +7,30 @@ This page lists and links my public speaking engagements. Feel free to reach out
 You can find more from me on [LinkTree](https://linktr.ee/iris.hunkeler).
 
 # Table of Contents
+- [2026](#2026)
 - [2025](#2025)
 - [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
+
+# 2026
+
+<table>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>Event</th>
+    <th>Title</th>
+    <th>Location</th>
+    <th>Language</th>
+  </tr>
+  <tr>
+    <td>2026-05-07</td>
+    <td>DevOpsDays Zurich</td>
+    <td><a href="2026/2026-05-07.md">Speak Up: Your Story Matters</a></td>
+    <td>Winterthur, Switzerland</td>
+    <td>English</td>
+  </tr>
+</table>
 
 # 2025
 
